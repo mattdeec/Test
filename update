@@ -1,0 +1,4 @@
+select distinct
+ s.survey_id
+from
+ tmp.Test_Survey s
